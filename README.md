@@ -11,6 +11,10 @@
 
 ## Презентации и записки
 
+## Полезни връзки
+
+[Solver](https://cbom.atozmath.com/CBOM/Simplex.aspx?q=sm)
+
 ## Софтуер (опционално)
 
 [R download](https://cran.r-project.org/)
