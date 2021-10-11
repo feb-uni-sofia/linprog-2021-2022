@@ -1,18 +1,5 @@
-# Количествени методи в икономиката 2021-2022
+[![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
 
-## График на упражненията 
+This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
 
-Всички упражняния се провеждат онлайн в Skype: [https://join.skype.com/GWazxbBWBCHL](https://join.skype.com/GWazxbBWBCHL)
-
-- Понеделник, 15:00-16:30
-- Понеделник, 17:00-18:30
-- Вторник, 12:00-13:30
-- Сряда, 15:00-16:30
-
-## Презентации и записки
-
-## Софтуер (опционално)
-
-[R download](https://cran.r-project.org/)
-
-[R Studio download](https://rstudio.com/products/rstudio/download/)
+You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
