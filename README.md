@@ -11,6 +11,9 @@
 
 ## Презентации и записки
 
+Записки от упражненията можете да свалите в Rmd формат от това хранилище или да
+четете [тук](https://boyko.github.io/linprog/) в компилиран вид.
+
 ## Полезни връзки
 
 [Solver](https://cbom.atozmath.com/CBOM/Simplex.aspx?q=sm)
