@@ -13,7 +13,7 @@
 Записки от упражненията можете да свалите в Rmd формат от това хранилище или да
 четете в компилиран вид:
 
-<button class="button-save large">Записки</button>
+[https://boyko.github.io/linprog/](https://boyko.github.io/linprog/)
 
 ## Полезни връзки
 
